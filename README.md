@@ -45,9 +45,9 @@
 
 ### 🤖 AI Technologies
 <div>
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" height="35" />
-<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=langchain&logoColor=white" height="35" />
-<img src="https://img.shields.io/badge/RAG-121212?style=for-the-badge&logo=openai&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG_Architecture-1C3C3C?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
 </div>
 
 ### 🧠 CS, Robotics & Tools
@@ -61,9 +61,9 @@
 
 | Project | Tech | Features |
 |-------|------|---------|
-**AI-Enhanced Knowledge Platform** | LangChain, LangGraph, RAG | Smart retrieval, dynamic UI, agentic workflows |
-**Linguist Web - French Learning** | React, JS, CSS | Interactive UI, state management, progress tracking |
-**Automated Sensor Network** | Arduino, C++, IoT | Ultrasonic/IR/LDR integrations, Servo motor control |
+**Anime-Desu-React** | JavaScript, React, MongoDB | A platform for otakus worldwide built with enhanced functionalities |
+**CodeVector** | JavaScript, NeonDB, PostgreSQL | Browse ~200,000 products, category filtering, and pagination |
+**Schedulify** | JavaScript, React, MongoDB | A simple program to schedule your life |
 
 📌 *More projects on my GitHub — always building* 🔥
 
